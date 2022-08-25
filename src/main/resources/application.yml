@@ -1,0 +1,13 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: demo-async
+
+aa:
+  core-size: 6
+  max-size: 6
+  keep-alive: 3
+  queue-capacity: 1000
+  prefix: xiaofengstu-
+  hello: world
